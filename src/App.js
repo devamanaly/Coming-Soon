@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Text from './animation/Text';
-import Pic from './pic/techjourneyer_72218_i_need_a_logo_on_SummitByte_109d8cb7-bbb4-496f-9e7c-e1355c7eae6d.webp'
+
 function App() {
   return (
     <div className="App" >
